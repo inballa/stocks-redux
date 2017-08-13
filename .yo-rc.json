@@ -1,0 +1,9 @@
+{
+  "generator-wix-js": {
+    "promptValues": {
+      "authorName": "Inbal Langer",
+      "authorEmail": "inballa@wix.com",
+      "groupId": "com.wixpress.stocks-redux"
+    }
+  }
+}
